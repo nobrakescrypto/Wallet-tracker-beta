@@ -1,5 +1,7 @@
 import React from 'react';
+
 function App() {
-  return <div>Welcome to Wallet Tracker Beta</div>;
+  return <h1>Wallet Tracker Beta is Live!</h1>;
 }
+
 export default App;
